@@ -1,0 +1,109 @@
+body {
+	font-family: 'bebas neue';
+	background: url(Merijn0.jpg) top left repeat;}
+
+#index{
+	position: relative;
+	left: 0px;
+	top: -110px;
+	background: url(background4.png);
+	font-family: 'basic title font';
+	color: white;
+	background-size: 100%; height: 305px;
+	font-size: 180px;
+	padding: 200px;
+	border: none;
+	margin-bottom: 10px;
+	text-align: center;}
+
+#banner{
+	position: relative;
+	left: 0px;
+	top: -85px;
+	background: url(banner.png);
+	font-family: 'basic title font';
+	color: white;
+	background-size: 100%; height:auto;
+	font-size: 140px;
+	padding: 80px;
+	border:none;
+	text-align: center;}
+
+.navbar{ 
+	position: relative;
+	left: 0px;
+	top: -290px;
+	text-align:center;
+	height: 60px;
+	padding: 1px;
+	margin-bottom: 10px;
+	border: none;
+   background: url(banwater.png);}
+
+.navbar li{ 
+  display: inline;
+  list-style-type: none;
+  font-size: 30px;
+  padding: 70px;
+  border-radius: 3px;
+  margin-top: 10px;
+  margin-bottom: 10px}
+
+.navbar li a{
+  color: rgb(180,176,171);
+  text-decoration:none;}
+
+.navbar li a:hover{ 
+  color: rgb(59,54,48);}
+
+.navbar2{ 
+	position: relative;
+	left: 0px;
+	top: -200px;
+	text-align:center;
+	height: 60px;
+	padding: 1px;
+	border: 1px transparent;
+    background: url(banwater.png);}
+
+.navbar2 li{ 
+  display: inline;
+  list-style-type: none;
+  font-size: 30px;
+  padding: 70px;
+  border-radius: 3px;
+  margin-top: 10px;}
+
+.navbar2 li a{
+  color: rgb(180,176,171);
+  padding: 10px;
+  text-decoration:none;}
+
+.navbar2 li a:hover{ 
+  color: rgb(59,54,48);}
+
+
+.contenido{
+	position: relative;
+	top:-200px;
+	width: 800px;
+	background: white;
+	padding: 30px;
+	border: solid 3px rgb(121,116,109);
+	text-align: justify;
+	margin: auto;
+	margin-top: 30px;
+	font-family: "verdana";}
+
+.cabecera{
+    font-family: 'bebas neue';
+    text-decoration: underline;
+    font-size: 20px;
+    color:rgb(59,54,48) ;
+    text-align: center;}
+
+.av{
+	margin-left: 200px;
+	margin-bottom: 10px;}
+
+
